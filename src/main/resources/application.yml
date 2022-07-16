@@ -1,0 +1,8 @@
+unleash:
+
+  appName: "test-application"
+  clientSecret: "*:development.491bd27779b6f78975fcab45150782a9e3d8fd34f77dfe77b4dc59ec"
+  apiUrl: "https://unleash-dev-sl.fusionx.biz/api/"
+
+
+
